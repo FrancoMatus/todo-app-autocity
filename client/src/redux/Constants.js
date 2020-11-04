@@ -1,0 +1,13 @@
+// <------- CONSTANTES DE TODOS ------->
+export const GET_ALL_TODOS = 'GET_ALL_TODOS';
+export const CREATE_TODO = 'CREATE_TODO';
+export const UPDATE_TODO = 'UPDATE_TODO';
+export const DELETE_TODO = 'DELETE_TODO';
+export const CURRENT_TODO = 'CURRENT_TODO';
+// <------- TODO FILTERS ------->
+export const GET_TASK_TODO = 'GET_TASK_TODO';
+export const GET_TASK_IN_PROGRESS = 'GET_TASK_IN_PROGRESS';
+export const GET_TASK_DONE = 'GET_TASK_DONE';
+export const TODOS_DELETED = 'TODOS_DELETED';
+
+// GET_TASK_TODO, GET_TASK_IN_PROGRESS, GET_TASK_DONE,TODOS_DELETED, 

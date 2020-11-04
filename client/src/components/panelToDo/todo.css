@@ -1,0 +1,94 @@
+.addCategoryForm{
+    background-color: rgb(233, 233, 233);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* .formularioTemplate{
+   
+} */
+
+.formularioIn{
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    justify-content: center;
+    width: 300px;
+} 
+
+.WithoutStyles{
+    
+    list-style: none;
+    text-decoration: none;
+    color: rgb(28, 28, 28);
+    font-size: 18px;
+    font-weight: bold;
+}
+.WithoutStyles:visited{
+    text-decoration: none;
+    list-style: none;
+    color: rgb(28, 28, 28);
+    font-size: 18px;
+    font-weight: bold;
+}
+.WithoutStyles:active{
+    text-decoration: none;
+    list-style: none;
+    color: rgb(28, 28, 28);
+    font-weight: bold;
+}
+.WithoutStyles:hover{
+    text-decoration: none;
+    list-style: none;
+    color: rgb(28, 28, 28);
+    font-size: 18px;
+    font-weight: bold;
+    height: 100%;
+}
+
+.unorderList{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+}
+
+.alignItemsAdminPanel{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    background-color: rgb(202, 202, 202);
+}
+
+.cardSelector{
+    border: 1px solid rgb(2, 2, 2);
+    width: 50%;
+    margin: 40px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+.manejoDeVacio{
+    height: 100%;
+}
+
+.uniqueProductFromCreate{
+    border: 1px solid #4d4c4c;
+    width: 450px;
+}
+
+.textDeleted{
+    /* border: 1px solid #4d4c4c; */
+    width: 270px;
+    background-color: #f23b3b;
+    color: white;
+}
+
+.containerText{
+    margin: auto;
+}
+.cardToDo{
+    width: 1000px;
+    margin: 12px;
+}
